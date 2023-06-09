@@ -1,6 +1,6 @@
 # Machine Learning and Data Science
 
-## Welcome to my Machine Learning and Data Science Repository!
+## Welcome to my Machine Learning and Data Science Portfolio!
 
 In this repository, you will find a collection of ML projects I have worked on, such as:
   
