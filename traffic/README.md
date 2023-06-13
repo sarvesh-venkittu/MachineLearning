@@ -4,3 +4,4 @@ In the second trial, the CNN model was modified with 50 filters in the convoluti
 
 In the third trial, the CNN model was further adjusted with 50 filters in the convolutional layer, a pooling size of (1,1), and 200 neurons in the hidden layer, but without any dropout regularization. Surprisingly, the accuracy increased significantly to 0.9633. However, this high accuracy might be an indication of overfitting, where the model has learned the training data too well and struggles to generalize to unseen examples.
 
+NOTE: The gtsrb (German Traffic Sign Recognition Benchmark) data set is not included in this folder, due to its enormous size
